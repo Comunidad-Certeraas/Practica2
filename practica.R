@@ -4,3 +4,6 @@ b<- c(56,45,67,2)
 #Vamos hacer 1 commit -m
 
 h<- c("jofete","loca")
+
+#Esto es dentro de la Rama text
+#jajja son pruebas :D LOOOL 
