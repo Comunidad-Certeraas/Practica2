@@ -7,3 +7,6 @@ h<- c("jofete","loca")
 
 #Esto es dentro de la Rama text
 #jajja son pruebas :D LOOOL 
+
+l<- c(1,2,3,5)
+#Agregamos el vector l
