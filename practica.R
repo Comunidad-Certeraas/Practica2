@@ -11,7 +11,7 @@ h<- c("jofete","loca")
 l<- c(1,2,3,5)
 #Agregamos el vector l
 
-
+#Omar Primer cambio
 #Ahora esto es para agregar una nueva rama
 
 mama<- c("nose")
